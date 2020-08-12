@@ -1,0 +1,40 @@
+body{
+
+}
+
+.navbar{
+    background-color: red;
+    padding-top: 50px;
+}
+
+
+
+.margin{
+    
+    padding-top: 30px;
+}
+.quem-somos{
+    background-color: chartreuse;
+    color: white;
+    margin-bottom: 10px;
+    
+}
+
+.parceiros{
+    background-color: tomato;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.servicos{
+    background-color: violet;
+    color: white;
+   font-family: fantasy;
+  
+}
+
+.bg-footer{
+    background-color: black;
+    color: blanchedalmond;
+    padding-top: 20px;
+}
